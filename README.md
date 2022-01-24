@@ -4,7 +4,7 @@ Tip-Calculator is a tip calculator application for iOS.
 
 Submitted by: Matthew Dong
 
-Time spent: 1 hours spent in total
+Time spent: 2 hours spent in total
 
 ## User Stories
 
@@ -35,10 +35,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Learning how to navigate XCode and utilize the various tools was a challenge, but with time I was able to become more familiar with the software.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 Matthew Dong
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
